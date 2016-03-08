@@ -1,0 +1,18 @@
+# sbt target folders
+target/
+project/target
+project/project
+
+js/.settings
+js/.classpath
+js/.project
+js/.cache-main
+js/bin
+js/target
+
+jvm/.settings
+jvm/.classpath
+jvm/.project
+jvm/.cache-main
+jvm/bin
+jvm/target
